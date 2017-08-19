@@ -2,6 +2,8 @@
 
 This is a simple chat application built using Angular and Firebase.
 
+https://www.youtube.com/watch?v=IVaek-TWE9I&feature=youtu.be
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
 ## Development server
